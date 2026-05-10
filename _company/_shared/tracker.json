@@ -1,0 +1,18 @@
+{
+  "tasks": [
+    {
+      "id": "20260510113245-d2bw",
+      "title": "도구 자율도(Tool Autonomy) 분석",
+      "description": "도구 자율도 어때?",
+      "owner": "agent",
+      "createdAt": "2026-05-10T11:32:45.391Z",
+      "status": "done",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "sessionDir": "2026-05-10T11-22",
+      "evidence": "완료: sessions/2026-05-10T11-22/_report.md\n- Researcher: Instagram과 YouTube에 필요한 '자동화 가능한' 핵심 트렌드 키워드와 주제군을 지난 리서치 자료(밈, 사운드, 검색어 등)를 종합하\n- 레오: 분류된 핵심 주제군을 바탕으로 유튜브 쇼츠에 최적화된 영상 구조(템플릿: 도입-전개-결론의 시간 배분 및 시각 요소)를 기획하고, 장기적인 콘텐\n- Instagram: 유튜브와 협업하여, 인스타그램 릴스에 특화된 '참여 유도형' 포맷(댓글/저장 유도 구조)을 설계하고, 해당 주제군별 해시태그 전략을 업데이트합니\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🔍 Researcher _(Trend & Data Researcher)_\n> 📋 **지시**: Instagram과 YouTube에 필요한 '자동화 가능한' 핵심 트렌드 키워드와 주제군을 지난 리서치 자료(밈, 사운드, 검색어 등)를 종합하여 5가지 카테고리로 분류하고 요약합니다.\n> 🔧 **도구 실행*",
+      "completedAt": "2026-05-10T11:34:17.242Z"
+    }
+  ]
+}
