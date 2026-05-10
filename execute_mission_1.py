@@ -3,12 +3,12 @@ import os
 import time
 from dotenv import load_dotenv
 
-# .agent/tools 경로를 시스템 경로에 추가하여 모듈 임포트 가능하게 설정
+# 도구 경로 설정
 sys.path.append(os.path.join(os.getcwd(), ".agent", "tools"))
 
 from veo_video_maker import generate_long_take
 
-# 미션 1: PDRN 리프팅 앰플 영상 생성 설정
+# 설정값
 IMAGE_PATH = "pdrn_start.png"
 BASE_PROMPT = (
     "A cinematic high-end product commercial for a luxury skin ampoule. "
