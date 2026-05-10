@@ -3,21 +3,16 @@ import os
 import time
 from dotenv import load_dotenv
 
-# Set tool path
+# 시스템 경로 설정
 sys.path.append(os.path.join(os.getcwd(), ".agent", "tools"))
 
 from veo_video_maker import generate_long_take
 
-# Mission Settings
+# 미션 설정
 IMAGE_PATH = "pdrn_start.png"
-BASE_PROMPT = "A cinematic high-end product commercial for a luxury skin ampoule."
-EXTEND_PROMPTS = [
-    "A single drop falls in slow motion.",
-    "Close-up of radiant skin.",
-    "Premium packaging on marble."
-]
+BASE_PROMPT = "A cinematic high-end product commercial."
+EXTEND_PROMPTS = ["A single drop falls.", "Close-up skin."]
 OUTPUT_FILENAME = "pdrn_viral_video.mp4"
 
 if __name__ == "__main__":
-    print("--- Starting Video Generation ---")
     generate_long_take(IMAGE_PATH, BASE_PROMPT, EXTEND_PROMPTS, OUTPUT_FILENAME)
