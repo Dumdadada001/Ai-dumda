@@ -9,3 +9,6 @@ _CEO 에이전트만 읽고 쓰는 개인 노트. 학습·교훈·자주 쓰는 
 - [2026-05-10] [자율 사이클 — 2026-05-10] 1인 기업 24시간 운영 중. 회사 목표·각 에이전트의 개인 목표(_agents/{id}/goal.md)·최근 의사결정·메모리를 검토해서 지금 가장 가치 있는 단일 작업 1개를 결정하고, 적절한 1~2명 에이전트에게 분배해서 실행하세요. 같은 산출물을 반복하지 마세요 — 메모리에 비슷한 항목이 24시간 내에 있으면 다른 각도로 진전시키세요. → 보고서 sessions/2026-05-10T11-22/_report.md
 - [2026-05-10] 동기화 실패: remote: error: GH007: Your push would publish a private email address. remote: You can make your email public or disable this protection by visiting: remote: https://github.com/settings/emails To https://github.com/ 이게 뭐야?? 해결 해주세요 → 보고서 sessions/2026-05-10T11-41/_report.md
 - [2026-05-10] 동기화 실패원인 → 보고서 sessions/2026-05-10T11-42/_report.md
+- [2026-05-10] 쇼츠 만들수 있나? 테스트 먼저 → 보고서 sessions/2026-05-10T11-55/_report.md
+- [2026-05-10] 우리 유투브 사이트를 내화면에 띄울수 있나요? 가능하면 진행해봐주세요 → 보고서 sessions/2026-05-10T12-00/_report.md
+- [2026-05-10] [자율 사이클 — 2026-05-10] 1인 기업 24시간 운영 중. 회사 목표·각 에이전트의 개인 목표(_agents/{id}/goal.md)·최근 의사결정·메모리를 검토해서 지금 가장 가치 있는 단일 작업 1개를 결정하고, 적절한 1~2명 에이전트에게 분배해서 실행하세요. 같은 산출물을 반복하지 마세요 — 메모리에 비슷한 항목이 24시간 내에 있으면 다른 각도로 진전시키세요. → 보고서 sessions/2026-05-10T11-54/_report.md
